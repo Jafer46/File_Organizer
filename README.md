@@ -6,5 +6,5 @@ This app made to organize the files in the downloads folder. It organizes files 
 
 ## Usage/Examples
 
-Just run the code it will do the hob 
+Just run the code it will do the job 
 
